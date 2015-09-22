@@ -1,0 +1,15 @@
+h1 {color : blue; }
+
+.picture {
+	max-width: auto;
+	max-height: 50%;
+
+}
+.headers {
+	width: 250px;
+	
+
+}
+.name {
+	left:20px;
+}
