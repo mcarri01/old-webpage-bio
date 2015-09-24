@@ -1,15 +1,60 @@
-h1 {color : blue; }
-
-.picture {
-	max-width: auto;
-	max-height: 50%;
-
+body {
+	background-color: #42647f;
 }
-.headers {
-	width: 250px;
+p{
+	font-family: Verdana;
+}
+dt{
+	font-family: Verdana;
+}
+dd{
+	font-family: Verdana;
+}
+li {
+	font-family: Verdana
+}
+h1 {
+	font-family: Verdana;
+	text-align: center;
+	background-color: #cccccc;
+ }
+#first_picture {
+	width:720px;
+	height:960px;
+	float:left;
 	
+	border: 3px solid;
+}
+#second_picture {
+	width: 700px;
+	float: right;
 
 }
-.name {
-	left:20px;
+#third_picture {
+	width: 300px;
+	height: 300px;
+	position: absolute;
+	left: 50%;
+	top: 50%;
+	margin-left: -500px;
+	margin-top: -200px;
+}
+#first_link {
+	text-align:right;
+	font-family: Verdana;
+	line-height: 500%;
+	font-size: 90%;
+}
+#second_link {
+	text-align:right;
+	font-family: Verdana;
+	font-size: 90%;
+	line-height:500%;
+}
+
+.headers {
+	font-family: Arial;
+	background-color: #226677;
+	width: 300px;
+
 }
