@@ -34,7 +34,7 @@ h1 {
 	width: 300px;
 	height: 300px;
 	float: bottom;
-	display: inline;
+	display: block;
 }
 #first_link {
 	text-align:right;
