@@ -31,7 +31,7 @@ h1 {
 }
 #third_picture {
 	width: 300px;
-	
+	float: left;
 }
 #first_link {
 	text-align:right;
