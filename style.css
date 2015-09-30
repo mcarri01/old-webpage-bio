@@ -55,4 +55,6 @@ h1 {
 }
 .block {
 	background-color: #c1bbb3;
+	padding: 10px;
+	border: solid;
 }
