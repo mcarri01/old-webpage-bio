@@ -55,6 +55,8 @@ h1 {
 }
 .block {
 	background-color: #c1bbb3;
-	width: 600px;
 	border: solid;
+}
+#resume_block {
+	width: 650px;
 }
