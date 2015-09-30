@@ -32,6 +32,7 @@ h1 {
 #third_picture {
 	width: 300px;
 	float: left;
+	display: block;
 }
 #first_link {
 	text-align:right;
