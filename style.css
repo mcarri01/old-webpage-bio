@@ -32,7 +32,7 @@ h1 {
 #third_picture {
 	width: 300px;
 	float: left;
-	display: block;
+
 }
 #first_link {
 	text-align:right;
@@ -53,4 +53,6 @@ h1 {
 	width: 300px;
 
 }
-
+#bio_text {
+	float: right;
+}
